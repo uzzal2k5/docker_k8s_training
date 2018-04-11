@@ -14,7 +14,7 @@ Docker is an open-source platform that automates the building, shipping and runn
 * Version
 * [Learn More About ](https://github.com/uzzal2k5)
 * [ Follow Me LinkedIn ](https://www.linkedin.com/in/uzzal2k5)
-* [Customize Your Course -](mailto:uzzal2k5@gmail.com) skype or hangout  ( uzzal2k5 ) 
+* Customize Your Course - skype or hangout  ( uzzal2k5 ) 
 
 #### Get Start ? [Docker ,](https://docker.com/) [Kubernetes](https://kubernetes.io/)
 ##### Course List
@@ -95,7 +95,7 @@ Docker is an open-source platform that automates the building, shipping and runn
               3. Operations
               
 
-6) Customize your cources for you or your organization contact through skype or hangout ( uzzal2k5 )  
+7) Customize your cources for you or your organization contact through skype or hangout ( uzzal2k5 )  
 ### Who do I talk to? ###
 
 * [Repo owner or Course Instructor](https://www.linkedin.com/in/uzzal2k5)
