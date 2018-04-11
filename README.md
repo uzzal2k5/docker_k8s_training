@@ -23,7 +23,7 @@ Docker is an open-source platform that automates the building, shipping and runn
     
         Course Code :  IntroDockerK8s
         Duration :   16 hours 
-        Price : $200 (16000Tk) USD (Online $350 USD limited 2 month )
+        Price : $200 (16000Tk) USD (Online $350 USD limited 2 months )
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -36,7 +36,7 @@ Docker is an open-source platform that automates the building, shipping and runn
         
         Course Code :  DockerDevSys
         Duration :   20 hours 
-        Price : $300 USD (Online $500 USD limited 2 month)
+        Price : $300 USD (Online $500 USD limited 2 months)
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -49,7 +49,7 @@ Docker is an open-source platform that automates the building, shipping and runn
         
         Course Code :  DockerCompose
         Duration :   16 hours 
-        Price : $200 USD (16,000Tk) (Online $350 USD limited 2 month )
+        Price : $200 USD (16,000Tk) (Online $350 USD limited 2 months )
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -62,7 +62,7 @@ Docker is an open-source platform that automates the building, shipping and runn
     
         Course Code :  DockerCluster
         Duration :   16 hours 
-        Price : $200 USD (16,000Tk) (Online $250 USD limited 2 month)
+        Price : $200 USD (16,000Tk) (Online $250 USD limited 2 months)
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -75,7 +75,7 @@ Docker is an open-source platform that automates the building, shipping and runn
         
         Course Code :  DockerK8s
         Duration :   24 hours 
-        Price : $500 USD (40,000Tk) (Online $1000 USD limited 3 month )
+        Price : $500 USD (40,000Tk) (Online $1000 USD limited 3 months )
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -88,7 +88,7 @@ Docker is an open-source platform that automates the building, shipping and runn
         
         Course Code :  DockerK8sScale
         Duration :   16 hours 
-        Price : $500 USD(40,000Tk) (Online $800 USD limited 2 month)
+        Price : $500 USD(40,000Tk) (Online $800 USD limited 2 months)
         Audience 
               1. System Administartor
               2. DevOps Engineers
