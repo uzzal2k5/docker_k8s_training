@@ -18,11 +18,11 @@ Docker is an open-source platform that automates the building, shipping and runn
 #### Get Start ? [Docker ,](https://docker.com/) [Kubernetes](https://kubernetes.io/)
 ##### Course List
 
-1) Introducing Docker and Kubernetes
+1) [Introducing Docker and Kubernetes](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/introducing%20_docker_kubernetes.md?at=master)
     
         Course Code :  IntroDockerK8s
         Duration :   16 hours 
-        Price : $200 (16000Tk) USD (Online $350 limited 2 month )
+        Price : $200 (16000Tk) USD (Online $350 USD limited 2 month )
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -31,51 +31,70 @@ Docker is an open-source platform that automates the building, shipping and runn
               3. Software Developer
               4. IT Project Manager
               
-
-2)  Docker Clustering with Swarm
-    
-        Course Code :  dockercluster
-        Duration :   16 hours 
-        Price : $200 USD (Online $250 limited 2 month)
+2) [Docker for Developers and System Administrators Training Course](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/developer_sysadmin.md?at=master)
+        
+        Course Code :  DockerDevSys
+        Duration :   20 hours 
+        Price : $300 USD (Online $500 USD limited 2 month)
         Audience 
               1. System Administartor
               2. DevOps Engineers
-              3. Software Developer
-              4. IT Manager
+              3. Operations
+              4. QA Engineers
+              5. Software Developer
+              6. IT Project Manager
 
-3)  Docker and Kubernetes Full
+3)  [Docker Compose](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_compose.md?at=master)
+        
+        Course Code :  DockerCompose
+        Duration :   16 hours 
+        Price : $200 USD (16,000Tk) (Online $350 USD limited 2 month )
+        Audience 
+              1. System Administartor
+              2. DevOps Engineers
+              3. Operations
+              4. QA Engineers
+              3. Software Developer
+              4. IT Project Manager
+              
+4)  [Docker Clustering with Swarm](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_clustering_swarm.md?at=master)
+    
+        Course Code :  DockerCluster
+        Duration :   16 hours 
+        Price : $200 USD (16,000Tk) (Online $250 USD limited 2 month)
+        Audience 
+              1. System Administartor
+              2. DevOps Engineers
+              3. Operations
+              4. QA Engineers
+              3. Software Developer
+              4. IT Project Manager
+
+5)  [Docker and Kubernetes Full](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_k8s_full.md?at=master)
         
         Course Code :  DockerK8s
         Duration :   24 hours 
-        Price : $500 USD (Online $1000 limited 3 month )
+        Price : $500 USD (40,000Tk) (Online $1000 USD limited 3 month )
         Audience 
               1. System Administartor
               2. DevOps Engineers
+              3. Operations
+              4. QA Engineers
               3. Software Developer
-              4. IT Manager
+              4. IT Project Manager
 
-4)  Docker and Kubernetes: Building and Scaling a Containerized Application Training Course
+6)  [Docker and Kubernetes : Building and Scaling a Containerized Application Training Course](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_k8s_building_scaling.md?at=master)
         
-        Course Code :  DockerK8sscale
+        Course Code :  DockerK8sScale
         Duration :   16 hours 
-        Price : $500 USD (Online $800 limited 2 month)
+        Price : $500 USD(40,000Tk) (Online $800 USD limited 2 month)
         Audience 
               1. System Administartor
               2. DevOps Engineers
-              3. Software Developer
-              4. IT Manager
+              3. Operations
+              
 
-6)  Docker for Developers and System Administrators Training Course
-        
-        Course Code :  IntroDockerK8s
-        Duration :   20 hours 
-        Price : $300 USD (Online $500 limited 2 month)
-        Audience 
-              1. System Administartor
-              2. DevOps Engineers
-              3. Software Developer
-              4. IT Manager
-
+6) 
 ### Who do I talk to? ###
 
 * [Repo owner or Course Instructor](https://www.linkedin.com/in/uzzal2k5)
