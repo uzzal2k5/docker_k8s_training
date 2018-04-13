@@ -26,6 +26,7 @@ By the end of this training, participants will be able to:
 
 ###### Audience
 
+*   DevOps Engineers
 *   Software Developers
 *   Architects
 *   Deployment engineers
