@@ -47,7 +47,8 @@ Part lecture, part discussion, exercises and heavy hands-on practice
 
 *   Containers vs virtual machines
 *   Speed and performance
-######Overview of Docker architecture
+
+###### Overview of Docker architecture
 
 *   Docker and the Linux kernel
 *   Docker components (Docker client, Docker daemon, images, registry, containers)
