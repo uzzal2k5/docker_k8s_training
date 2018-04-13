@@ -2,7 +2,7 @@ Course Code: dockerdevops
 
 #### Docker for Developers and System Administrators Training Course*
 
-#####Course Outline
+##### Course Outline
 ###### What is Docker?
 *   Use cases
 *   Major components of Docker
