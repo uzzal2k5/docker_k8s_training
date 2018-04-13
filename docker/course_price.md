@@ -1,7 +1,3 @@
-REQUIREMENTS
-Experience with Docker
-
-
 # Docker & Kubernetes Training  #
 
 Docker training courses demonstrate through hands-on practice how to create and manage Docker containers, then to deploy sample applications using container.
