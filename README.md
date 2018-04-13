@@ -15,7 +15,7 @@ Docker is an open-source platform that automates the building, shipping and runn
 * [Learn More About ](https://github.com/uzzal2k5)
 * [ Follow Me LinkedIn ](https://www.linkedin.com/in/uzzal2k5)
 * Customize Your Course - skype or hangout  ( uzzal2k5 )
-##### [ Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
+##### [ Get Price you Course ](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/course_price.md)
 
 
 #### Get Start ? [Docker ,](https://docker.com/) [Kubernetes](https://kubernetes.io/)
@@ -24,7 +24,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 ##### [ Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
 ##### Course List
 
-1) [Introducing Docker and Kubernetes](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/introducing%20_docker_kubernetes.md?at=master)
+1) [Introducing Docker and Kubernetes](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/introducing%20_docker_kubernetes.md)
     
         Course Code :  IntroDockerK8s
         Duration :  16 hours 
@@ -37,7 +37,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
               6. IT Project Manager
               7. Students 
               
-2) [Docker for Developers and System Administrators Training Course](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/developer_sysadmin.md?at=master)
+2) [Docker for Developers and System Administrators Training Course](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/developer_sysadmin.md)
         
         Course Code :  DockerDevSys
         Duration :   20 hours 
@@ -49,7 +49,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
               5. Software Developer
               6. IT Project Manager
 
-3)  [Docker Compose](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_compose.md?at=master)
+3)  [Docker Compose](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_compose.md)
         
         Course Code :  DockerCompose
         Requirements: Experience with Docker
@@ -60,7 +60,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
               3. Developer
               4. QA Engineers
               
-4)  [Docker Clustering with Swarm](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_clustering_swarm.md?at=master)
+4)  [Docker Clustering with Swarm](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_clustering_swarm.md)
     
         Course Code :  DockerCluster
         Requirements: Experience with Docker
@@ -72,7 +72,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
               4. QA Engineers
               5. IT Project Manager
 
-5)  [Docker and Kubernetes Full](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_k8s_full.md?at=master)
+5)  [Docker and Kubernetes Full](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_k8s_full.md)
         
         Course Code :  DockerK8s
         Duration :   24 hours 
@@ -84,7 +84,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
               3. Software Developer
               4. IT Project Manager
 
-6)  [Docker and Kubernetes : Building and Scaling a Containerized Application Training Course](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_k8s_building_scaling.md?at=master)
+6)  [Docker and Kubernetes : Building and Scaling a Containerized Application Training Course](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_k8s_building_scaling.md)
         
         Course Code :  DockerK8sScale
         Requirements: Experience with Docker
@@ -100,5 +100,5 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 
 * [Repo owner or Course Instructor](https://www.linkedin.com/in/uzzal2k5)
 * [Learn More](https://github.com/uzzal2k5) 
-##### [Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
+##### [Get Price you Course ](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/course_price.md)
 
