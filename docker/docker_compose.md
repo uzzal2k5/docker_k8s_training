@@ -21,7 +21,7 @@ Part lecture, part discussion, exercises and heavy hands-on practice
 
 
 ###### Course Outline
-*#####   Introduction
+######  Introduction
 
 *   Understanding Docker Compose, Its Uses, and Its Features
 
@@ -60,8 +60,8 @@ Part lecture, part discussion, exercises and heavy hands-on practice
 
 *   Using Compose's 'run' Command to Run Additional Services
 
-*#####   Compose in Production: 
+######   Compose in Production: 
 
        *  Building a Swarm Cluster and Deploying Your Sample Environment to it Using Compose Environment Variables
 
-*#####   Summary and Conclusion
+######   Summary and Conclusion
