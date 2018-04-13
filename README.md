@@ -90,10 +90,11 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
         Requirements: Experience with Docker
         Duration :   16 hours  and k8s
         Audience 
-              1. System Administartor
-              2. DevOps Engineers
-              3. Operations
-              4. Architects
+              1. DevOps Engineers
+              2. Architects
+              3. Software Developers
+              4. Deployment engineers
+
               
 
 7) Customize your course for you or your organization contact through skype or hangout ( uzzal2k5 )  
