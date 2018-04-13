@@ -45,6 +45,7 @@ By the end of the course, participants will be able to:
 *   Persistent Data Storage
 *   Docker Compose
 *   Docker Registry
+
 [Segment - 2]
 
 Docker Networking
