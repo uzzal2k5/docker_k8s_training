@@ -1,6 +1,6 @@
 Course Code : dockerK8sbuildScale
 
-##### Docker and Kubernetes: Building and Scaling a Containerized Application Training Course
+### Docker and Kubernetes: Building and Scaling a Containerized Application Training Course
 
 ###### Requirements
 *   Familiarity with the Linux command line
