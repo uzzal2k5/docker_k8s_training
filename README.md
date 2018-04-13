@@ -19,6 +19,7 @@ Docker is an open-source platform that automates the building, shipping and runn
 #### Get Start ? [Docker ,](https://docker.com/) [Kubernetes](https://kubernetes.io/)
 ##### Course format
 Part lecture, Part discussion, excersises, heavy hands-on practice
+##### [Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
 ##### Course List
 
 1) [Introducing Docker and Kubernetes](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/introducing%20_docker_kubernetes.md?at=master)
@@ -49,6 +50,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 3)  [Docker Compose](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_compose.md?at=master)
         
         Course Code :  DockerCompose
+        Requirements: Experience with Docker
         Duration :   16 hours 
         Audience 
               1. System Administartor
@@ -59,6 +61,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 4)  [Docker Clustering with Swarm](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_clustering_swarm.md?at=master)
     
         Course Code :  DockerCluster
+        Requirements: Experience with Docker
         Duration :   16 hours 
         Audience 
               1. System Administartor
@@ -82,7 +85,8 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 6)  [Docker and Kubernetes : Building and Scaling a Containerized Application Training Course](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/docker_k8s_building_scaling.md?at=master)
         
         Course Code :  DockerK8sScale
-        Duration :   16 hours 
+        Requirements: Experience with Docker
+        Duration :   16 hours  and k8s
         Audience 
               1. System Administartor
               2. DevOps Engineers
@@ -94,4 +98,5 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 
 * [Repo owner or Course Instructor](https://www.linkedin.com/in/uzzal2k5)
 * [Learn More](https://github.com/uzzal2k5) 
+* ##### [Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
 
