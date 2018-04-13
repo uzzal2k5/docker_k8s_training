@@ -1,3 +1,6 @@
+Course Code : dockerK8s
+## Docker Container Learner to Advance  
+
 ##### Requirements
 Familiarity with using the Linux command line, Linux file system, Linux networking, bash scripting. Computer programming concepts and methodologies. Familiarity with Docker and Linux containers technology.
 
@@ -44,6 +47,7 @@ This course is for people and teams that want to learn Kubernetes foundation and
     *   Quotas
 
 ##### Segment - 2
+
 *    Kubernetes reference architecture and its main components
 
 *    Containers network model in Kubernetes
