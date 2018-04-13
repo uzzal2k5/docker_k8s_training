@@ -93,6 +93,7 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
               1. System Administartor
               2. DevOps Engineers
               3. Operations
+              4. Architects
               
 
 7) Customize your course for you or your organization contact through skype or hangout ( uzzal2k5 )  
