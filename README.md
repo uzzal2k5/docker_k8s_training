@@ -14,12 +14,14 @@ Docker is an open-source platform that automates the building, shipping and runn
 * Version
 * [Learn More About ](https://github.com/uzzal2k5)
 * [ Follow Me LinkedIn ](https://www.linkedin.com/in/uzzal2k5)
-* Customize Your Course - skype or hangout  ( uzzal2k5 ) 
+* Customize Your Course - skype or hangout  ( uzzal2k5 )
+##### [ Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
+
 
 #### Get Start ? [Docker ,](https://docker.com/) [Kubernetes](https://kubernetes.io/)
 ##### Course format
 Part lecture, Part discussion, excersises, heavy hands-on practice
-##### [Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
+##### [ Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
 ##### Course List
 
 1) [Introducing Docker and Kubernetes](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/f37aa64d7aa24f7dfdc510e8a8809a555cf83632/docker/introducing%20_docker_kubernetes.md?at=master)
@@ -98,5 +100,5 @@ Part lecture, Part discussion, excersises, heavy hands-on practice
 
 * [Repo owner or Course Instructor](https://www.linkedin.com/in/uzzal2k5)
 * [Learn More](https://github.com/uzzal2k5) 
-* ##### [Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
+##### [Get Price you Course ](https://bitbucket.org/uzzal2k5/docker_k8s_training/src/c64a9a725a684bac11b793851ce35442932e7954/docker/course_price.md?at=master)
 
