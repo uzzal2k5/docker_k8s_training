@@ -48,24 +48,24 @@ By the end of the course, participants will be able to:
 
 [Segment - 2]
 
-Docker Networking
-Docker Swarm Mode
-Concepts - Manager & Workers
-Overlay Network
-Service Discovery
-Load-balancing
-Routing Mesh
-Initializing Swarm
-Docker Services
-Performing Rolling Updates
-Docker Logs
+* Docker Networking
+* Docker Swarm Mode
+* Concepts - Manager & Workers
+* Overlay Network
+* Service Discovery
+* Load-balancing
+* Routing Mesh
+* Initializing Swarm
+* Docker Services
+* Performing Rolling Updates
+* Docker Logs
 
 [Segment - 3]
 
-Docker Stacks
-Docker Secrets
-Partitioning / Node Labeling
-Node Management
-Troubleshooting
-Securing the Docker Engine/Swarm
-Closing Remarks
+* Docker Stacks
+* Docker Secrets
+* Partitioning / Node Labeling
+* Node Management
+* Troubleshooting
+* Securing the Docker Engine/Swarm
+##### Closing Remarks
