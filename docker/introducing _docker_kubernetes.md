@@ -16,7 +16,7 @@ Overview
 *   Union FS
 *   Container format
 ###### Installation of Docker
-*   Installation on Ubuntu via apt-get
+*   Installation on Centos 7 via yum
 *   Installation of newer version of Docker
 ###### Dockerizing applications
  *  The hello world example
@@ -51,3 +51,10 @@ Overview
  *  Uploading to Docker Hub
  *  Private repositories
  *  Automated builds
+ 
+###### Kubernetes Introduction
+* What is kubernetes?
+* Komponents and Architecture overview 
+* Pods
+* Controllers
+* Services
