@@ -33,7 +33,7 @@ By the end of the course, participants will be able to:
 
 #####  Course Outline
 
-[DAY 01]
+[Segment - 1]
 
 *   Introduction
 *   Preparing our infrastructure/Installing Docker
@@ -45,7 +45,7 @@ By the end of the course, participants will be able to:
 *   Persistent Data Storage
 *   Docker Compose
 *   Docker Registry
-[DAY 02]
+[Segment - 2]
 
 Docker Networking
 Docker Swarm Mode
@@ -59,7 +59,7 @@ Docker Services
 Performing Rolling Updates
 Docker Logs
 
-[DAY 03]
+[Segment - 3]
 
 Docker Stacks
 Docker Secrets
