@@ -37,14 +37,14 @@ Docker is an open-source platform that automates the building, shipping and runn
 	 
 	 	Course Code :  DockerDevSys
        		Duration :   20 hours 
-		Price : $350 USD (28,000Tk) (Online $450 USD limited 2 months)
+			Price : $350 USD (28,000Tk) (Online $450 USD limited 2 months)
         	Course format : Part lecture, Part discussion, excersises, heavy hands-on practice
               
 4)  [Docker Clustering with Swarm](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_clustering_swarm.md)
     
         Course Code :  DockerCluster
         Duration :   16 hours 
-        Price : $200 USD (16,000Tk) (Online $250 USD limited 2 months)
+       	 Price : $200 USD (16,000Tk) (Online $250 USD limited 2 months)
         Course format : Part lecture, Part discussion, excersises, heavy hands-on practice
 
 5)  [Docker and Kubernetes Full](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_k8s_full.md)
@@ -58,7 +58,7 @@ Docker is an open-source platform that automates the building, shipping and runn
         
         	Course Code :  DockerK8sScale
         	Duration :   16 hours 
-		Price : $500 USD(40,000Tk) (Online $800 USD limited 2 months)
+			Price : $500 USD(40,000Tk) (Online $800 USD limited 2 months)
        	 	Course format : Part lecture, Part discussion, excersises, heavy hands-on practice
               
 
