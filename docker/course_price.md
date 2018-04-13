@@ -35,7 +35,7 @@ Docker is an open-source platform that automates the building, shipping and runn
 3)  [Docker Compose](https://github.com/uzzal2k5/docker_k8s_training/blob/master/docker/docker_compose.md)	
   	
 	 
-	 		Course Code :  DockerDevSys
+	 		Course Code :  DockerCompose
        		Duration :   20 hours 
 			Price : $350 USD (28,000Tk) (Online $450 USD limited 2 months)
         	Course format : Part lecture, Part discussion, excersises, heavy hands-on practice
